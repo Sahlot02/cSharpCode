@@ -4,3 +4,5 @@ Company: publicised sapient
 Post : SDE-1
 Location : Gurgaon
 Joining date: 5th July
+Timing: 8:30am to 5:30am
+

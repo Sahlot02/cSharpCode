@@ -1,2 +1,5 @@
 Bank name : HDFC
 Name : Chirag sahlot
+Date : 5th July
+Bank balance : 0rs
+State : Mumbai
